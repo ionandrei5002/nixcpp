@@ -18,7 +18,7 @@ ENV NIXPKGS_ALLOW_UNFREE 1
 WORKDIR /home/andrei/
 RUN . /home/andrei/.nix-profile/etc/profile.d/nix.sh && \
     nix-channel --update && \
-    nix-env -f '<nixpkgs>' -i git-2.19.1 vscode-1.28.2 && \
+    nix-env -f '<nixpkgs>' -i git-2.19.1 vscode && \
     nix-env -f '<nixpkgs>' -i gcc-wrapper-8.2.0 cmake-3.12.1 gnumake-4.2.1
 
 USER root
