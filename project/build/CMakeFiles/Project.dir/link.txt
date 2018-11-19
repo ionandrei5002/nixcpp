@@ -1,0 +1,1 @@
+/home/andrei/.nix-profile/bin/g++  -g  -rdynamic CMakeFiles/Project.dir/main.cpp.o  -o Project -Wl,-rpath,/home/andrei/.nix-profile/lib /home/andrei/.nix-profile/lib/libsfml-graphics.so.2.5.1 /home/andrei/.nix-profile/lib/libsfml-window.so.2.5.1 /home/andrei/.nix-profile/lib/libsfml-system.so.2.5.1 

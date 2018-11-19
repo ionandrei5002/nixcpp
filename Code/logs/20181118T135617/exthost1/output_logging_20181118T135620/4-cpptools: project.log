@@ -1,0 +1,78 @@
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>
+[Error - 1:58:26 PM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at connection.shutdown.then (/home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/node_modules/vscode-languageclient/lib/client.js:1791:28)
+	at <anonymous>

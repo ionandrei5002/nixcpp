@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "C_Cpp.default.includePath": [
+        "/home/andrei/.nix-profile/include"
+    ],
+    "cmake.configureOnOpen": true
+}

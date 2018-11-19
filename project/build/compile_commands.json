@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/andrei/project/build",
+  "command": "/home/andrei/.nix-profile/bin/g++   -isystem /home/andrei/.nix-profile/include  -g   -march=native -std=c++17 -O -g3 -m64 -Werror -Wfatal-errors -pedantic-errors -Wall -Wextra -o CMakeFiles/Project.dir/main.cpp.o -c /home/andrei/project/main.cpp",
+  "file": "/home/andrei/project/main.cpp"
+}
+]

@@ -1,0 +1,25 @@
+[variant] Loaded new set of variants
+[kit] Found Kit: GCC 8.2.0
+[cmake] CMake Error at CMakeLists.txt:6 (find_package):
+[cmake]   By not providing "FindSFML.cmake" in CMAKE_MODULE_PATH this project has
+[cmake]   asked CMake to find a package configuration file provided by "SFML", but
+[cmake]   CMake did not find one.
+[cmake] 
+[cmake]   Could not find a package configuration file provided by "SFML" with any of
+[cmake]   the following names:
+[cmake] 
+[cmake]     SFMLConfig.cmake
+[cmake]     sfml-config.cmake
+[cmake] 
+[cmake]   Add the installation prefix of "SFML" to CMAKE_PREFIX_PATH or set
+[cmake]   "SFML_DIR" to a directory containing one of the above files.  If "SFML"
+[cmake]   provides a separate development package or SDK, be sure it has been
+[cmake]   installed.
+[cmake] 
+[cmake] 
+[cmake] Configuring incomplete, errors occurred!
+[cmake] See also "/home/andrei/project/build/CMakeFiles/CMakeOutput.log".
+[cms-driver] Error during CMake configure: [cmake-server] Configuration failed.
+[cmake] Found SFML 2.5.1 in /home/andrei/.nix-profile/lib/cmake/SFML
+[cmake] Configuring done
+[cmake] Generating done

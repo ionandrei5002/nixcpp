@@ -1,0 +1,30 @@
+[2018-11-17 12:46:21.718] [exthost] [info] extension host started
+[2018-11-17 12:46:21.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-11-17 12:46:21.733] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-11-17 12:46:21.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-11-17 12:46:21.737] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/emmet/dist/extension
+[2018-11-17 12:46:21.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-11-17 12:46:21.764] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/git/dist/main
+[2018-11-17 12:46:21.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-11-17 12:46:21.856] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/merge-conflict/dist/extension
+[2018-11-17 12:46:21.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-11-17 12:46:21.862] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/search-rg/dist/extension
+[2018-11-17 12:46:21.865] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-11-17 12:46:21.865] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/pkief.material-icon-theme-3.6.0/out/src/extension
+[2018-11-17 12:46:21.891] [exthost] [info] ExtensionService#_doActivateExtension vector-of-bool.cmake-tools {"startup":true,"activationEvent":"workspaceContains:CMakeLists.txt"}
+[2018-11-17 12:46:21.891] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/vector-of-bool.cmake-tools-1.1.2/out/src/extension
+[2018-11-17 12:46:22.069] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-11-17 12:46:22.069] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/out/src/main
+[2018-11-17 12:46:22.389] [exthost] [info] eager extensions activated
+[2018-11-17 12:46:27.654] [exthost] [info] ExtensionService#_doActivateExtension twxs.cmake {"startup":false,"activationEvent":"onLanguage:cmake"}
+[2018-11-17 12:46:27.654] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/twxs.cmake-0.0.17/out/extension
+[2018-11-17 12:49:40.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-11-17 12:49:40.311] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/configuration-editing/dist/extension
+[2018-11-17 12:49:40.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-11-17 12:49:40.327] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/extension-editing/dist/extension
+[2018-11-17 12:49:40.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-11-17 12:49:40.380] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-11-17 12:49:40.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-11-17 12:49:40.426] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/npm/dist/main
+[2018-11-17 12:49:40.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-11-17 12:49:40.477] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/03040aq1c4hjgjdg002irfqqy9j4yza1-vscode-1.28.2/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension

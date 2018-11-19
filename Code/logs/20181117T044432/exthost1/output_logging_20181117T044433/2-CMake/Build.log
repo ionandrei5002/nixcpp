@@ -1,0 +1,39 @@
+[variant] Loaded new set of variants
+[kit] Found Kit: GCC 7.3.0
+[kit] Found Kit: GCC 7.3.0
+[kit] Found Kit: GCC for x86_64-unknown-linux-gnu 7.3.0
+[kit] Found Kit: GCC for x86_64-unknown-linux-gnu 7.3.0
+[kit] Found Kit: GCC 7.3.0
+[kit] Found Kit: GCC 7.3.0
+[kit] Found Kit: GCC for x86_64-unknown-linux-gnu 7.3.0
+[kit] Found Kit: GCC for x86_64-unknown-linux-gnu 7.3.0
+[kit] Found Kit: GCC 8.2.0
+[cmake] Found SFML 2.5.1 in /home/andrei/.nix-profile/lib/cmake/SFML
+[cmake] Configuring done
+[cmake] Generating done
+[build] Starting build
+[proc] Executing command: /home/andrei/.nix-profile/bin/cmake --build /home/andrei/project/build --config Debug --target all -- -j 10
+[build] /nix/store/sxxy01wn82n7wjl5a384344m2i4xszx6-cmake-3.12.1/bin/cmake -H/home/andrei/project -B/home/andrei/project/build --check-build-system CMakeFiles/Makefile.cmake 0
+[build] /nix/store/sxxy01wn82n7wjl5a384344m2i4xszx6-cmake-3.12.1/bin/cmake -E cmake_progress_start /home/andrei/project/build/CMakeFiles /home/andrei/project/build/CMakeFiles/progress.marks
+[build] /home/andrei/.nix-profile/bin/make -f CMakeFiles/Makefile2 all
+[build] make[1]: Entering directory '/home/andrei/project/build'
+[build] /home/andrei/.nix-profile/bin/make -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/depend
+[build] make[2]: Entering directory '/home/andrei/project/build'
+[build] cd /home/andrei/project/build && /nix/store/sxxy01wn82n7wjl5a384344m2i4xszx6-cmake-3.12.1/bin/cmake -E cmake_depends "Unix Makefiles" /home/andrei/project /home/andrei/project /home/andrei/project/build /home/andrei/project/build /home/andrei/project/build/CMakeFiles/Project.dir/DependInfo.cmake --color=
+[build] make[2]: Leaving directory '/home/andrei/project/build'
+[build] /home/andrei/.nix-profile/bin/make -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/build
+[build] make[2]: Entering directory '/home/andrei/project/build'
+[build] make[2]: Nothing to be done for 'CMakeFiles/Project.dir/build'.
+[build] make[2]: Leaving directory '/home/andrei/project/build'
+[build] [100%] Built target Project
+[build] make[1]: Leaving directory '/home/andrei/project/build'
+[build] /nix/store/sxxy01wn82n7wjl5a384344m2i4xszx6-cmake-3.12.1/bin/cmake -E cmake_progress_start /home/andrei/project/build/CMakeFiles 0
+[build] Build finished with exit code 0
+[cmake] Found SFML 2.5.1 in /home/andrei/.nix-profile/lib/cmake/SFML
+[cmake] Configuring done
+[cmake] Generating done
+[build] Starting build
+[proc] Executing command: /home/andrei/.nix-profile/bin/cmake --build /home/andrei/project/build --config Debug --target all -- -j 10
+[build] [ 50%] Linking CXX executable Project
+[build] [100%] Built target Project
+[build] Build finished with exit code 0
