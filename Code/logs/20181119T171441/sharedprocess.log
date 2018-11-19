@@ -1,0 +1,20 @@
+[2018-11-19 17:14:44.975] [sharedprocess] [info] main {"machineId":"db24ebc8-3ebd-43a0-8d62-f157602e348e"}
+[2018-11-19 17:14:44.977] [sharedprocess] [trace] Started scanning system extensions
+[2018-11-19 17:14:44.977] [sharedprocess] [trace] Started scanning user extensions
+[2018-11-19 17:14:44.978] [sharedprocess] [trace] telemetry/optInStatus {"optIn":true}
+[2018-11-19 17:14:45.019] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-19 17:14:45.026] [sharedprocess] [trace] Started scanning system extensions
+[2018-11-19 17:14:45.026] [sharedprocess] [trace] Started scanning user extensions
+[2018-11-19 17:14:45.026] [sharedprocess] [trace] Started scanning system extensions
+[2018-11-19 17:14:45.026] [sharedprocess] [trace] Started scanning user extensions
+[2018-11-19 17:14:45.026] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-11-19 17:14:45.026] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-11-19 17:14:45.040] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-19 17:14:45.041] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-19 17:14:45.073] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-19 17:14:45.075] [sharedprocess] [debug] Writing language packs {}
+[2018-11-19 17:14:45.076] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-19 17:14:45.077] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-19 17:14:45.123] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-11-19 17:14:45.125] [sharedprocess] [trace] Started scanning user extensions
+[2018-11-19 17:14:45.127] [sharedprocess] [info] Scanned user extensions: 5

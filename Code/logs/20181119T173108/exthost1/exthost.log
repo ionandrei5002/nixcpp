@@ -1,0 +1,16 @@
+[2018-11-19 17:31:09.574] [exthost] [info] extension host started
+[2018-11-19 17:31:09.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-11-19 17:31:09.591] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/z7ls0nib9nh7gg1gzm516vql45yq6wn8-vscode-1.29.0/lib/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-11-19 17:31:09.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-11-19 17:31:09.596] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/z7ls0nib9nh7gg1gzm516vql45yq6wn8-vscode-1.29.0/lib/vscode/resources/app/extensions/emmet/dist/extension
+[2018-11-19 17:31:09.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-11-19 17:31:09.611] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/z7ls0nib9nh7gg1gzm516vql45yq6wn8-vscode-1.29.0/lib/vscode/resources/app/extensions/git/dist/main
+[2018-11-19 17:31:09.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-11-19 17:31:09.706] [exthost] [info] ExtensionService#loadCommonJSModule /nix/store/z7ls0nib9nh7gg1gzm516vql45yq6wn8-vscode-1.29.0/lib/vscode/resources/app/extensions/merge-conflict/dist/extension
+[2018-11-19 17:31:09.711] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-11-19 17:31:09.711] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/pkief.material-icon-theme-3.6.0/out/src/extension
+[2018-11-19 17:31:09.751] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-11-19 17:31:09.751] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/ms-vscode.cpptools-0.20.1/out/src/main
+[2018-11-19 17:31:09.834] [exthost] [info] ExtensionService#_doActivateExtension vector-of-bool.cmake-tools {"startup":true,"activationEvent":"workspaceContains:CMakeLists.txt"}
+[2018-11-19 17:31:09.834] [exthost] [info] ExtensionService#loadCommonJSModule /home/andrei/.vscode/extensions/vector-of-bool.cmake-tools-1.1.2/out/src/extension
+[2018-11-19 17:31:10.171] [exthost] [info] eager extensions activated

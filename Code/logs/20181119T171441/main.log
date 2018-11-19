@@ -1,0 +1,37 @@
+[2018-11-19 17:14:41.661] [main] [debug] Starting VS Code
+[2018-11-19 17:14:41.661] [main] [debug] from: /nix/store/z7ls0nib9nh7gg1gzm516vql45yq6wn8-vscode-1.29.0/lib/vscode/resources/app
+[2018-11-19 17:14:41.663] [main] [debug] args: {"_":["/home/andrei/project"],"help":false,"h":false,"version":false,"v":false,"wait":false,"w":false,"diff":false,"d":false,"add":false,"a":false,"goto":false,"g":false,"new-window":false,"n":false,"unity-launch":false,"reuse-window":false,"r":false,"open-url":false,"performance":false,"p":false,"prof-startup":false,"verbose":true,"logExtensionHostCommunication":false,"disable-extensions":false,"disableExtensions":false,"list-extensions":false,"show-versions":false,"nolazy":false,"issue":false,"skip-getting-started":true,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"status":false,"s":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"trace":false}
+[2018-11-19 17:14:41.663] [main] [trace] Resolving machine identifier...
+[2018-11-19 17:14:41.663] [main] [trace] Resolved machine identifier: db24ebc8-3ebd-43a0-8d62-f157602e348e
+[2018-11-19 17:14:41.671] [main] [info] update#setState idle
+[2018-11-19 17:14:41.677] [main] [trace] windowsManager#open
+[2018-11-19 17:14:41.771] [main] [trace] telemetry/optInStatus {"optIn":true}
+[2018-11-19 17:14:42.851] [main] [trace] windowsService#whenSharedProcessReady
+[2018-11-19 17:14:42.852] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-11-19 17:14:42.852] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-11-19 17:14:42.852] [main] [trace] windowsService#isFocused 1
+[2018-11-19 17:14:42.905] [main] [trace] windowsService#startCrashReporter
+[2018-11-19 17:14:42.914] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-11-19 17:14:42.983] [main] [trace] IPC#vscode-workbenchLoaded
+[2018-11-19 17:14:42.985] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-11-19 17:14:43.138] [main] [trace] windowsService#getWindowCount
+[2018-11-19 17:14:43.213] [main] [trace] RequestService#request https://update.code.visualstudio.com/api/update/linux-x64/stable/5f24c93878bd4bc645a4a17c620e2487b11005f9
+[2018-11-19 17:14:43.320] [main] [trace] windowsService#isFocused 1
+[2018-11-19 17:14:43.409] [main] [trace] menubarService#updateMenubar 1
+[2018-11-19 17:14:43.495] [main] [trace] windowsService#getWindowCount
+[2018-11-19 17:14:43.711] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-11-19 17:14:44.218] [main] [trace] windowsService#showMessageBox 1
+[2018-11-19 17:14:44.358] [main] [trace] IPC#vscode:broadcast vscode:changeColorTheme {"baseTheme":"vs-dark","background":"#1e1e1e"}
+[2018-11-19 17:14:55.864] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-11-19 17:15:04.793] [main] [trace] Lifecycle#window-before-close 1
+[2018-11-19 17:15:04.793] [main] [trace] Lifecycle#unload() 1
+[2018-11-19 17:15:04.800] [main] [trace] Lifecycle#unload(): unload continues without veto 1
+[2018-11-19 17:15:04.843] [main] [trace] Lifecycle#onBeforeWindowClose.fire()
+[2018-11-19 17:15:04.845] [main] [trace] Lifecycle#window-before-close 1
+[2018-11-19 17:15:04.845] [main] [trace] Lifecycle#window-close 1
+[2018-11-19 17:15:04.850] [main] [trace] Lifecycle#window-closed 1
+[2018-11-19 17:15:04.851] [main] [trace] Lifecycle#onShutdown.fire()
+[2018-11-19 17:15:04.861] [main] [trace] Lifecycle#window-all-closed
+[2018-11-19 17:15:04.861] [main] [trace] Lifecycle#before-quit
+[2018-11-19 17:15:04.862] [main] [trace] Lifecycle#onBeforeShutdown.fire()
+[2018-11-19 17:15:04.872] [main] [trace] App#will-quit: disposing resources
